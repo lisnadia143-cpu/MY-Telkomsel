@@ -1,0 +1,6 @@
+{
+  "name": "Telkomsel Enterprise",
+  "description": "Layanan digital, solusi bisnis korporat, chatbot AI real-time, dan dashboard analitik interaksi pelanggan PT Telkomsel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
